@@ -1,0 +1,15 @@
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\bin\Debug\netcoreapp3.1\KanyeRest.exe
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\bin\Debug\netcoreapp3.1\KanyeRest.deps.json
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\bin\Debug\netcoreapp3.1\KanyeRest.runtimeconfig.json
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\bin\Debug\netcoreapp3.1\KanyeRest.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\bin\Debug\netcoreapp3.1\KanyeRest.dll
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\bin\Debug\netcoreapp3.1\KanyeRest.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\obj\Debug\netcoreapp3.1\KanyeRest.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\obj\Debug\netcoreapp3.1\KanyeRest.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\obj\Debug\netcoreapp3.1\KanyeRest.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\obj\Debug\netcoreapp3.1\KanyeRest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\obj\Debug\netcoreapp3.1\KanyeRest.csproj.CopyComplete
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\obj\Debug\netcoreapp3.1\KanyeRest.dll
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\obj\Debug\netcoreapp3.1\KanyeRest.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\KanyeRestAPI\KanyeRest\KanyeRest\obj\Debug\netcoreapp3.1\KanyeRest.genruntimeconfig.cache
